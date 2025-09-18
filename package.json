@@ -2,6 +2,7 @@
   "name": "nexoraflow",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lavanitha.github.io/nexoraflow/"
   "rocketCritical": {
     "dependencies": [
       "@dhiwise/component-tagger",
